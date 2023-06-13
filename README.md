@@ -1,7 +1,7 @@
 # Introduction & Goals
 The following project aims to illustrate the process of leveraging semi-structured data from various sources to create an holistic yet dynamic dashboard/analysis of the company's performance. 
 
-The subsequent steps inlude cleaning and engineering additional information through Power Query (using the M language), developing a data model within Power BI and utilising DAX to expand upon the informative content of the data. The resulting data is then utilised to create an interactive report/dashboard deliverable. 
+The subsequent steps inlude cleaning and engineering additional information through Power Query (using the M language), developing a data model within Power BI and utilising DAX to expand upon the informative content of the data. The resulting figures are then utilised to create an interactive report/dashboard deliverable. 
 
 # Contents
 
