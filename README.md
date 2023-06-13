@@ -1,5 +1,5 @@
 # Introduction & Goals
-The following project aims to illustrate the process of leveraging semi-structured from various sources to create an holistic yet dynamic dashboard/analysis of the company's performance across its appropriate geographical locations. 
+The following project aims to illustrate the process of leveraging semi-structured data from various sources to create an holistic yet dynamic dashboard/analysis of the company's performance across its appropriate geographical locations. 
 
 The subsequent steps inlude cleaning and engineering additional information through Power Query (using the M language), developing a data model within Power BI and utilising DAX to expand upon the informative content of the data. The resulting data is then utilised to create an interactive report/dashboard deliverable. 
 
